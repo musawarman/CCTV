@@ -1,0 +1,58 @@
+C:\Users\SDN1Puteran\Videos\Musawarman\CCTV Project\CCTVKemenhub\CCTV\bin\Debug\CCTV.exe
+C:\Users\SDN1Puteran\Videos\Musawarman\CCTV Project\CCTVKemenhub\CCTV\bin\Debug\CCTV.pdb
+C:\Users\SDN1Puteran\Videos\Musawarman\CCTV Project\CCTVKemenhub\CCTV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SDN1Puteran\Videos\Musawarman\CCTV Project\CCTVKemenhub\CCTV\obj\x86\Debug\MainWindow.baml
+C:\Users\SDN1Puteran\Videos\Musawarman\CCTV Project\CCTVKemenhub\CCTV\obj\x86\Debug\MainWindow.g.cs
+C:\Users\SDN1Puteran\Videos\Musawarman\CCTV Project\CCTVKemenhub\CCTV\obj\x86\Debug\App.g.cs
+C:\Users\SDN1Puteran\Videos\Musawarman\CCTV Project\CCTVKemenhub\CCTV\obj\x86\Debug\CCTV_MarkupCompile.cache
+C:\Users\SDN1Puteran\Videos\Musawarman\CCTV Project\CCTVKemenhub\CCTV\obj\x86\Debug\CCTV.g.resources
+C:\Users\SDN1Puteran\Videos\Musawarman\CCTV Project\CCTVKemenhub\CCTV\obj\x86\Debug\CCTV.Properties.Resources.resources
+C:\Users\SDN1Puteran\Videos\Musawarman\CCTV Project\CCTVKemenhub\CCTV\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SDN1Puteran\Videos\Musawarman\CCTV Project\CCTVKemenhub\CCTV\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SDN1Puteran\Videos\Musawarman\CCTV Project\CCTVKemenhub\CCTV\obj\x86\Debug\CCTV.exe
+C:\Users\SDN1Puteran\Videos\Musawarman\CCTV Project\CCTVKemenhub\CCTV\obj\x86\Debug\CCTV.pdb
+C:\Users\SDN1Puteran\Videos\Musawarman\CCTV Project\CCTVKemenhub\CCTV\bin\Debug\MjpegProcessor.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\obj\x86\Debug\CCTV.exe
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\obj\x86\Debug\CCTV.pdb
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\CCTV.exe
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\CCTV.pdb
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\obj\x86\Debug\CCTV.csprojResolveAssemblyReference.cache
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\obj\x86\Debug\MainWindow.baml
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\obj\x86\Debug\MainWindow.g.cs
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\obj\x86\Debug\App.g.cs
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\obj\x86\Debug\CCTV_MarkupCompile.cache
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\obj\x86\Debug\CCTV.g.resources
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\obj\x86\Debug\CCTV.Properties.Resources.resources
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\obj\x86\Debug\CCTV.csproj.GenerateResource.Cache
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\CCTV.exe.manifest
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\CCTV.application
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\obj\x86\Debug\CCTV.exe.manifest
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\obj\x86\Debug\CCTV.application
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\DevExpress.Data.v15.2.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\DevExpress.Mvvm.v15.2.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\DevExpress.Xpf.Core.v15.2.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\DevExpress.Xpf.Docking.v15.2.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\DevExpress.Xpf.Layout.v15.2.Core.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\DevExpress.Data.v15.2.xml
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\DevExpress.Mvvm.v15.2.xml
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\DevExpress.Xpf.Core.v15.2.xml
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\DevExpress.Xpf.Docking.v15.2.xml
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\DevExpress.Xpf.Layout.v15.2.Core.xml
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\de\DevExpress.Xpf.Core.v15.2.resources.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\es\DevExpress.Xpf.Core.v15.2.resources.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\ja\DevExpress.Xpf.Core.v15.2.resources.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\ru\DevExpress.Xpf.Core.v15.2.resources.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\de\DevExpress.Xpf.Docking.v15.2.resources.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\es\DevExpress.Xpf.Docking.v15.2.resources.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\ja\DevExpress.Xpf.Docking.v15.2.resources.dll
+E:\MY DATA\MY PROJECT\RAMTEC\CCTV\CCTV\bin\Debug\ru\DevExpress.Xpf.Docking.v15.2.resources.dll
